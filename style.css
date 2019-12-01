@@ -1,8 +1,16 @@
+body {
+  background-color: black;
+}
+
 h1 {
   color: red;
   text-align: center;
+  font-style: oblique;
+  font-size: 100px;
 }
 
 p {
   text-align: center;
+  color: white;
+  font-size: 50px;
 }
